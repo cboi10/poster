@@ -1,0 +1,30 @@
+body{
+    background-color: red;
+}
+div{
+    margin: auto;
+    margin-top: 70px;
+    width: 550px;;
+    height: auto;
+    background-color: black;
+    padding-top: 15px;
+    
+}
+img{
+    width:  480px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    border: 2px solid white;
+
+}
+p{
+    color:white;
+    text-align:center;
+    padding-bottom: 20px;
+}
+h1{
+    text-align: center;
+    color:rgb(218, 20, 20);    
+}
